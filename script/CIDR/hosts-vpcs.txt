@@ -1,0 +1,28 @@
+# Host (VPCS) - format: ip <IP> <gateway> <panjang prefix>
+# VPCS bukan shell Linux, jadi ini bukan .sh. Ketik per host di console VPCS-nya, lalu ketik: save
+
+Karl          : ip 10.73.16.2 10.73.16.1 22
+Lin           : ip 10.73.16.3 10.73.16.1 22
+Omnipresence  : ip 10.73.20.2 10.73.20.1 22
+Denpa         : ip 10.73.20.3 10.73.20.1 22
+Masayuki      : ip 10.73.4.2 10.73.4.1 23
+Collective    : ip 10.73.0.2 10.73.0.1 23
+Ghost         : ip 10.73.0.3 10.73.0.1 23
+Alice         : ip 10.73.24.2 10.73.24.1 24
+Reika         : ip 10.73.24.3 10.73.24.1 24
+Yasuo         : ip 10.73.25.2 10.73.25.1 24
+Miho          : ip 10.73.25.3 10.73.25.1 24
+Kuma          : ip 10.73.25.4 10.73.25.1 24
+JJ            : ip 10.73.26.2 10.73.26.1 25
+MyuMyu        : ip 10.73.26.3 10.73.26.1 25
+Lilith        : ip 10.73.2.2 10.73.2.1 25
+Specter       : ip 10.73.2.3 10.73.2.1 25
+Juri          : ip 10.73.6.2 10.73.6.1 26
+Taro          : ip 10.73.26.130 10.73.26.129 26
+Chisa         : ip 10.73.2.130 10.73.2.129 26
+Hodgeson      : ip 10.73.2.131 10.73.2.129 26
+Lain          : ip 10.73.2.194 10.73.2.193 26
+Mika          : ip 10.73.2.195 10.73.2.193 26
+Semi          : ip 10.73.3.2 10.73.3.1 27
+Akashic       : ip 10.73.6.66 10.73.6.65 29
+Eiri          : ip 10.73.3.34 10.73.3.33 29

@@ -69,8 +69,16 @@ Kolom **Jumlah IP** dan **Netmask** mengikuti data sumber. Nama pada kolom rute 
 | A25 | P2P: Schumann > Accela | 2 | /30 |
 | **Total** | **25 subnet** | **2.814** | **/19** |
 
-### Berkas dan Referensi
+### Contoh Testing
+Jalankan dari `Karl`
+```sh
+ping 10.73.15.2
+```
+Jalankan dari `Shibuya`
+```sh
+enable
+ping 10.73.0.2
+```
 
-Spreadsheet berisi tabel subnetting yang menjadi acuan prefix dan jumlah IP. Gunakan file Packet Tracer untuk melihat susunan perangkat dan koneksi secara langsung.
-
+### Referensi
 - [Spreadsheet subnetting VLSM](https://docs.google.com/spreadsheets/d/1nVZ1kbNtTvpj7fBITO0Vh2FDM34ZA0pB/edit?gid=1538066846#gid=1538066846)
